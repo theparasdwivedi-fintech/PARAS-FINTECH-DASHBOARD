@@ -1,0 +1,3 @@
+transaction_id,amount_usd_ledger,amount_usd_gateway,difference_usd
+R002,850.0,900.0,50.0
+R008,640.0,600.0,-40.0

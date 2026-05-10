@@ -1,0 +1,12 @@
+transaction_id,ledger_amount,gateway_amount,ledger_status,gateway_status,reconciliation_status
+R001,1200.0,1200.0,success,success,matched
+R002,850.0,900.0,success,success,amount_mismatch
+R003,500.0,500.0,success,success,matched
+R004,2100.0,,success,,missing_in_gateway
+R005,7200.0,7200.0,success,failed,status_mismatch
+R006,950.0,950.0,success,success,matched
+R007,3300.0,3300.0,failed,failed,matched
+R008,640.0,600.0,success,success,amount_mismatch
+R009,4100.0,4100.0,success,success,matched
+R010,2500.0,,success,,missing_in_gateway
+R011,,1800.0,,success,missing_in_ledger
