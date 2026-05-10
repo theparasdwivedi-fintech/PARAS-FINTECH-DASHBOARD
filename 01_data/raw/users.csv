@@ -1,0 +1,11 @@
+user_id,full_name,email,phone,country,account_type,kyc_status,registration_date,risk_tier
+U001,Aarav Sharma,aarav.sharma@email.in,+91-9812345001,IN,individual,verified,2024-06-15,low
+U002,Priya Nair,priya.nair@email.in,+91-9812345002,IN,individual,verified,2024-08-22,low
+U003,Ravi Menon,ravi.menon@email.sg,+65-81234503,SG,individual,verified,2024-07-10,low
+U004,Fatima Shaikh,fatima.shaikh@email.in,+91-9812345004,IN,individual,flagged,2025-01-03,high
+U005,Neha Gupta,neha.gupta@email.in,+91-9812345005,IN,business,verified,2023-11-18,low
+U006,Arjun Singh,arjun.singh@email.in,+91-9812345006,IN,individual,verified,2024-03-27,medium
+U007,Daniel Wu,daniel.wu@email.sg,+65-81234507,SG,business,verified,2023-09-05,low
+U008,Rohit Desai,rohit.desai@email.in,+91-9812345008,IN,individual,flagged,2025-11-30,high
+U009,Sara Mathew,sara.mathew@email.in,+91-9812345009,IN,individual,verified,2024-10-14,medium
+U010,Karan Patel,karan.patel@email.in,+91-9812345010,IN,individual,verified,2025-02-09,medium
